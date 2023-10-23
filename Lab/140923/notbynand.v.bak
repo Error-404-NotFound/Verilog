@@ -1,0 +1,5 @@
+module notbynand(a,b,y);
+	input a;
+	output y;
+	assign y = ~(a&a);
+endmodule

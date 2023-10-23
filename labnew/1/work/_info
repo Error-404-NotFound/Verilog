@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/Semester3/Digital Systems/labnew/1
+vfull_adder
+Z1 !s110 1697100706
+!i10b 1
+!s100 T`IY2hM50EX4[@eXEH?7Q1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IC5=f?z?SeV8_7W?ihazUJ3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1697100690
+Z5 8D:/Study/Semester3/Digital Systems/labnew/1/full_adder.v
+Z6 FD:/Study/Semester3/Digital Systems/labnew/1/full_adder.v
+!i122 4
+L0 1 6
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1697100706.000000
+!s107 D:/Study/Semester3/Digital Systems/labnew/1/full_adder.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/1/full_adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vfull_adder_bench
+R1
+!i10b 1
+!s100 AlFe]K^bHD_EmA[45Wi1f2
+R2
+I@lR76naKf@l@10Jc?9?8@0
+R3
+R0
+R4
+R5
+R6
+!i122 4
+L0 8 16
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/Study/Semester3/Digital Systems/labnew/1/full_adder.v|
+R9
+!i113 1
+R10
+R11
+vhalf_adder_a
+Z13 !s110 1697099705
+!i10b 1
+!s100 fDa^E?2X>;jn`J=^Z^WJP3
+R2
+IGKeV`AE:R=<TQN:ajMk1X0
+R3
+R0
+Z14 w1697099693
+Z15 8D:/Study/Semester3/Digital Systems/labnew/1/half_adder.v
+Z16 FD:/Study/Semester3/Digital Systems/labnew/1/half_adder.v
+!i122 3
+L0 1 4
+R7
+r1
+!s85 0
+31
+Z17 !s108 1697099705.000000
+Z18 !s107 D:/Study/Semester3/Digital Systems/labnew/1/half_adder.v|
+Z19 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/1/half_adder.v|
+!i113 1
+R10
+R11
+vhalf_adder_b
+R13
+!i10b 1
+!s100 P4c]<83>AgmX`TmD;408`3
+R2
+Iae_X[kLJH]fNc11PEYUMb3
+R3
+R0
+R14
+R15
+R16
+!i122 3
+L0 6 4
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vhalf_adder_bench
+!s110 1697099706
+!i10b 1
+!s100 bQ<fzeL:1T>5SBJna5YPo1
+R2
+IhQP4HEeB;7=kXPg6J4Q6:1
+R3
+R0
+R14
+R15
+R16
+!i122 3
+L0 21 12
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vhalf_adder_c
+R13
+!i10b 1
+!s100 2[[0DBDK_MTWOJ1;MIUX;2
+R2
+I<_P8^gY_kZeT_3]o?[9CY0
+R3
+R0
+R14
+R15
+R16
+!i122 3
+L0 11 9
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11

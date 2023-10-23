@@ -1,0 +1,19 @@
+module n_comparator #(parameter n=8)(input [n-1:0] a,input [n-1:0] b,output equal,output less_than,output greater_than);
+	assign equal = (a == b);
+	assign less_than = (a < b);
+	assign greater_than = (a > b);
+endmodule
+
+module n_comparator_bench #(parameter n=8)();
+	reg [n-1:0] a;
+	reg [n-1:0] b;
+	wire equal, less_than, greater_than;
+
+	n_comparator dUT(.a(a),.b(b),.equal(equal),.less_than(less_than),.greater_than(greater_than));
+	initial begin
+    		a = 123;b = 123;
+    		$display("A == B: %b", equal);
+    		$display("A < B: %b", less_than);
+    		$display("A > B: %b", greater_than);
+  	end
+endmodule

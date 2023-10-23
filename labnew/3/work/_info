@@ -1,0 +1,175 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/Semester3/Digital Systems/labnew/3
+vand_of_bits
+Z1 !s110 1697109307
+!i10b 1
+!s100 nNRZC4nZD<;mG:nX:fHH02
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ick^5Yh4Dd6TOfzQok>ec^0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1697109302
+Z5 8D:/Study/Semester3/Digital Systems/labnew/3/and_of_bits.v
+Z6 FD:/Study/Semester3/Digital Systems/labnew/3/and_of_bits.v
+!i122 13
+L0 1 12
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1697109307.000000
+Z9 !s107 D:/Study/Semester3/Digital Systems/labnew/3/and_of_bits.v|
+Z10 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/3/and_of_bits.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vand_of_bits_bench
+R1
+!i10b 1
+!s100 :J>HmneE_gB`f_J0Z4lf13
+R2
+I=NRaT8HZ:OSQ5k1GFEcdI3
+R3
+R0
+R4
+R5
+R6
+!i122 13
+Z13 L0 14 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vCountOnes
+Z14 !s110 1697111600
+!i10b 1
+!s100 ghAnP?<_<C9YoVR5W[2Kh0
+R2
+I^@IY6E3]6Ub_Ol:XD>Pl[3
+R3
+R0
+Z15 w1697111593
+Z16 8D:/Study/Semester3/Digital Systems/labnew/3/one_number.v
+Z17 FD:/Study/Semester3/Digital Systems/labnew/3/one_number.v
+!i122 17
+L0 1 10
+R7
+r1
+!s85 0
+31
+Z18 !s108 1697111600.000000
+Z19 !s107 D:/Study/Semester3/Digital Systems/labnew/3/one_number.v|
+Z20 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/3/one_number.v|
+!i113 1
+R11
+R12
+n@count@ones
+vCountOnes_bench
+R14
+!i10b 1
+!s100 =;<IW0@k`fGi]^6Y0defd1
+R2
+I1cUI^VE5OMGe=@SAlOc2G0
+R3
+R0
+R15
+R16
+R17
+!i122 17
+Z21 L0 12 10
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R11
+R12
+n@count@ones_bench
+vmyand
+!s110 1697108850
+!i10b 1
+!s100 OQ>FDHTSTA<T9l<VCPSUk2
+R2
+I740FDRKJ=kIRbf4@e]S[e0
+R3
+R0
+w1697108842
+8D:/Study/Semester3/Digital Systems/labnew/3/myand.v
+FD:/Study/Semester3/Digital Systems/labnew/3/myand.v
+!i122 9
+L0 1 3
+R7
+r1
+!s85 0
+31
+!s108 1697108850.000000
+!s107 D:/Study/Semester3/Digital Systems/labnew/3/myand.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/3/myand.v|
+!i113 1
+R11
+R12
+vTest_CountOnes
+!s110 1697111301
+!i10b 1
+!s100 6HDeL=nhC7M`J`;SimhHM0
+R2
+IUeIf1NzV4zW0R7ChBchz@2
+R3
+R0
+w1697111289
+R16
+R17
+!i122 16
+R21
+R7
+r1
+!s85 0
+31
+!s108 1697111301.000000
+R19
+R20
+!i113 1
+R11
+R12
+n@test_@count@ones
+vtestbench
+!s110 1697107170
+!i10b 1
+!s100 hFn:bP4;ZlIa4o?^?C3;d0
+R2
+I@]9lZ3<VEX_RJGjOh`jWY2
+R3
+R0
+w1697107163
+R5
+R6
+!i122 1
+R13
+R7
+r1
+!s85 0
+31
+!s108 1697107170.000000
+R9
+R10
+!i113 1
+R11
+R12

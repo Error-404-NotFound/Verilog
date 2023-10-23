@@ -1,0 +1,356 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/Semester3/Digital Systems/Lab/210923
+vde_morgan_one
+!s110 1695293621
+!i10b 1
+!s100 8^Qm0gWdHRjo_@2`bA0KZ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IP;RF^W3^_MV[>cDgjLl@j3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695293615
+8D:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one.v
+!i122 8
+Z3 L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1695293621.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vde_morgan_one_bench
+!s110 1695293634
+!i10b 1
+!s100 Na?KH^503;Nc<5]7X4G_e1
+R1
+I`ZhA^Jz1]S`U49>gXm4C11
+R2
+R0
+w1695293529
+8D:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one_bench.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one_bench.v
+!i122 9
+Z7 L0 1 14
+R4
+r1
+!s85 0
+31
+!s108 1695293634.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/de_morgan_one_bench.v|
+!i113 1
+R5
+R6
+vfour_level_nand
+!s110 1695292026
+!i10b 1
+!s100 >iBK4AGB0NFQ[j>mi_RJi1
+R1
+IHn:gZ]UCedUZ[Y8AEzX<j2
+R2
+R0
+w1695292019
+8D:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand.v
+!i122 1
+L0 1 13
+R4
+r1
+!s85 0
+31
+!s108 1695292026.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand.v|
+!i113 1
+R5
+R6
+vfour_level_nand_bench
+!s110 1695292976
+!i10b 1
+!s100 AkJ=>3Wobb:oTH]<]MTNo2
+R1
+IMbani`nJIPOgYQOgX1H^41
+R2
+R0
+w1695292960
+8D:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand_bench.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand_bench.v
+!i122 5
+L0 1 27
+R4
+r1
+!s85 0
+31
+!s108 1695292976.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/four_level_nand_bench.v|
+!i113 1
+R5
+R6
+vfull_be
+!s110 1695297130
+!i10b 1
+!s100 bPFjbJ<:f?3[d6@;lcSCB1
+R1
+IoYD9^on@=S]Xm@Qhfb:0d1
+R2
+R0
+w1695297071
+8D:/Study/Semester3/Digital Systems/Lab/210923/full_be.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/full_be.v
+!i122 21
+L0 1 42
+R4
+r1
+!s85 0
+31
+!s108 1695297130.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/full_be.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/full_be.v|
+!i113 1
+R5
+R6
+vfull_da
+!s110 1695296049
+!i10b 1
+!s100 `gLiPC`^cH>lN9?R^8<0o0
+R1
+IfPh`g^i;N1ZiVlelm4<:91
+R2
+R0
+w1695296041
+8D:/Study/Semester3/Digital Systems/Lab/210923/full_da.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/full_da.v
+!i122 16
+Z8 L0 1 6
+R4
+r1
+!s85 0
+31
+!s108 1695296049.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/full_da.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/full_da.v|
+!i113 1
+R5
+R6
+vfull_da_bench
+!s110 1695296208
+!i10b 1
+!s100 FR1]V2hb9LXi8;9V]PIiA0
+R1
+IYb1PLZ0RLo7Li2:e]zLSc0
+R2
+R0
+w1695296201
+8D:/Study/Semester3/Digital Systems/Lab/210923/full_da_bench.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/full_da_bench.v
+!i122 17
+Z9 L0 1 19
+R4
+r1
+!s85 0
+31
+!s108 1695296208.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/full_da_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/full_da_bench.v|
+!i113 1
+R5
+R6
+vfull_st
+!s110 1695296578
+!i10b 1
+!s100 <J]^_5PZXb7Pl0]E9FgDC2
+R1
+IUCmjV[9TX72`JPE4FNG@>0
+R2
+R0
+w1695296571
+8D:/Study/Semester3/Digital Systems/Lab/210923/full_st.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/full_st.v
+!i122 18
+L0 1 12
+R4
+r1
+!s85 0
+31
+!s108 1695296578.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/full_st.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/full_st.v|
+!i113 1
+R5
+R6
+vfull_st_bench
+!s110 1695296623
+!i10b 1
+!s100 cWV5?FhEgJaA8iF<6^28B0
+R1
+I4f5IagF9HSKfiFHk72IS31
+R2
+R0
+w1695296616
+8D:/Study/Semester3/Digital Systems/Lab/210923/full_st_bench.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/full_st_bench.v
+!i122 19
+R9
+R4
+r1
+!s85 0
+31
+!s108 1695296623.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/full_st_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/full_st_bench.v|
+!i113 1
+R5
+R6
+vhalf_be
+!s110 1695295776
+!i10b 1
+!s100 W?]9UMFcMRRAZ?k;=B?8n3
+R1
+IY`WQZbzgDGQ@hUJLR4mld0
+R2
+R0
+w1695295768
+8D:/Study/Semester3/Digital Systems/Lab/210923/half_be.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/half_be.v
+!i122 15
+L0 1 26
+R4
+r1
+!s85 0
+31
+!s108 1695295776.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/half_be.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/half_be.v|
+!i113 1
+R5
+R6
+vhalf_st
+!s110 1695294129
+!i10b 1
+!s100 ;]a>nD=V8zPCo`0fbiVBz0
+R1
+I11zE0P^WJOnZz;SS_^PhI3
+R2
+R0
+w1695294118
+8D:/Study/Semester3/Digital Systems/Lab/210923/half_st.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/half_st.v
+!i122 10
+R8
+R4
+r1
+!s85 0
+31
+!s108 1695294128.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/half_st.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/half_st.v|
+!i113 1
+R5
+R6
+vhalf_st_bench
+!s110 1695297860
+!i10b 1
+!s100 1Ld>ji]]]j16@LBbGMFVc3
+R1
+I_Ie;>AiAP9`1U3<@I]47C3
+R2
+R0
+w1695294319
+8D:/Study/Semester3/Digital Systems/Lab/210923/half_st_bench.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/half_st_bench.v
+!i122 22
+R7
+R4
+r1
+!s85 0
+31
+!s108 1695297860.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/half_st_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/half_st_bench.v|
+!i113 1
+R5
+R6
+vhalf_str
+!s110 1695294523
+!i10b 1
+!s100 BV[n[h4K6`ecmjI>?<C7>0
+R1
+I<n?5W?J6WKj_AAB^_3^iO3
+R2
+R0
+w1695294503
+8D:/Study/Semester3/Digital Systems/Lab/210923/half_str.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/half_str.v
+!i122 12
+R8
+R4
+r1
+!s85 0
+31
+!s108 1695294523.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/half_str.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/half_str.v|
+!i113 1
+R5
+R6
+vhalf_str_bench
+!s110 1695295008
+!i10b 1
+!s100 =PZN?N7Uc49;dD8HGRB[51
+R1
+ID[6[W[SNaPE=k3?Yz50oU1
+R2
+R0
+w1695295000
+8D:/Study/Semester3/Digital Systems/Lab/210923/half_str_bench.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/half_str_bench.v
+!i122 14
+R7
+R4
+r1
+!s85 0
+31
+!s108 1695295008.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/half_str_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/half_str_bench.v|
+!i113 1
+R5
+R6
+vmynand
+!s110 1695291080
+!i10b 1
+!s100 MJXJ[hiB?]JVNBl7M3=E;0
+R1
+I0JkXLH;h_]Nff;NFzfnB`0
+R2
+R0
+w1695291072
+8D:/Study/Semester3/Digital Systems/Lab/210923/mynand.v
+FD:/Study/Semester3/Digital Systems/Lab/210923/mynand.v
+!i122 0
+R3
+R4
+r1
+!s85 0
+31
+!s108 1695291080.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/210923/mynand.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/210923/mynand.v|
+!i113 1
+R5
+R6

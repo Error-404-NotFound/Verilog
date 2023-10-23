@@ -1,0 +1,8 @@
+module full_adder(a, b, c, y, x);
+	input a, b, c;
+	output y, x;
+	wire S0, C1, C2;
+	half_adder h1(.a(a),.b(b),.y(S0),.x(C1));
+	half_adder h2(.a(c),.b(S0),.y(y),.x(C2));
+	OR o(.a(C1),.b(C2),.O(x));
+endmodule

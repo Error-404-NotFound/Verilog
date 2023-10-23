@@ -1,0 +1,333 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/Semester3/Digital Systems/Lab/140923
+vandbynand
+!s110 1694693611
+!i10b 1
+!s100 @oeQ11YjLh4[=Q<z?PIzY1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYA?6B4kMH<zde:cW@7iHz2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694693601
+8D:/Study/Semester3/Digital Systems/Lab/140923/andbynand.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/andbynand.v
+!i122 24
+Z3 L0 1 5
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1694693611.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/andbynand.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/andbynand.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vandbynand_bench
+!s110 1694693618
+!i10b 1
+!s100 kPaj3M<l?c^8IDEVX4PCO1
+R1
+IiUE937zzebSHO7Ea=37`h0
+R2
+R0
+w1694693572
+8D:/Study/Semester3/Digital Systems/Lab/140923/andbynand_test.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/andbynand_test.v
+!i122 25
+Z7 L0 1 13
+R4
+r1
+!s85 0
+31
+!s108 1694693618.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/andbynand_test.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/andbynand_test.v|
+!i113 1
+R5
+R6
+vmynor
+!s110 1694692284
+!i10b 1
+!s100 U1f1;Y[W[[[h3Ob;Y5<c21
+R1
+IKX`0fIO_kOozjniTT8dcV2
+R2
+R0
+w1694692274
+8D:/Study/Semester3/Digital Systems/Lab/140923/mynor.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/mynor.v
+!i122 7
+R3
+R4
+r1
+!s85 0
+31
+!s108 1694692284.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/mynor.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/mynor.v|
+!i113 1
+R5
+R6
+vmynor_bench
+!s110 1694692291
+!i10b 1
+!s100 6Q7T8H8WdKXh2d`Y5SzCU2
+R1
+IoM3]7HDADGlbLmm6@zjeS2
+R2
+R0
+w1694692162
+8D:/Study/Semester3/Digital Systems/Lab/140923/mynor_test.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/mynor_test.v
+!i122 8
+R7
+R4
+r1
+!s85 0
+31
+!s108 1694692291.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/mynor_test.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/mynor_test.v|
+!i113 1
+R5
+R6
+vmynot
+!s110 1694692039
+!i10b 1
+!s100 CIfTF3b`0<88SCKgDBgZD1
+R1
+IBL3PIC9C[Vm11Lc2X@0T83
+R2
+R0
+w1694691953
+8D:/Study/Semester3/Digital Systems/Lab/140923/mynot.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/mynot.v
+!i122 3
+R3
+R4
+r1
+!s85 0
+31
+!s108 1694692039.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/mynot.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/mynot.v|
+!i113 1
+R5
+R6
+vmynot_bench
+!s110 1694692045
+!i10b 1
+!s100 RDYz8:5T]mn<^BRYK_^Gf3
+R1
+Ij>YW8`XHT1>j8M1h7::6Z2
+R2
+R0
+w1694692025
+8D:/Study/Semester3/Digital Systems/Lab/140923/mynot_test.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/mynot_test.v
+!i122 4
+Z8 L0 1 11
+R4
+r1
+!s85 0
+31
+!s108 1694692045.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/mynot_test.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/mynot_test.v|
+!i113 1
+R5
+R6
+vmyor
+!s110 1694693196
+!i10b 1
+!s100 :VHiY3XZ?oNBOOcG7PznS3
+R1
+I_7f>Ri8e0Z<>`e3Ig`S=[3
+R2
+R0
+w1694693078
+Z9 8D:/Study/Semester3/Digital Systems/Lab/140923/notbynand.v
+Z10 FD:/Study/Semester3/Digital Systems/Lab/140923/notbynand.v
+!i122 17
+R3
+R4
+r1
+!s85 0
+31
+!s108 1694693196.000000
+Z11 !s107 D:/Study/Semester3/Digital Systems/Lab/140923/notbynand.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/notbynand.v|
+!i113 1
+R5
+R6
+vmyor_bench
+!s110 1694691779
+!i10b 1
+!s100 D^lBCFgY>[mW<3IVWM60L3
+R1
+IKlC00Q7S93Gl`aQ4OijGD0
+R2
+R0
+w1694691756
+8D:/Study/Semester3/Digital Systems/Lab/140923/myor_test.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/myor_test.v
+!i122 2
+R7
+R4
+r1
+!s85 0
+31
+!s108 1694691779.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/myor_test.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/myor_test.v|
+!i113 1
+R5
+R6
+vmyxnor
+!s110 1694692674
+!i10b 1
+!s100 I:cG`gD8SI=IQB`mLl^^m2
+R1
+IdzB<RZhKD?EU?:QjBeZ3z1
+R2
+R0
+w1694692646
+8D:/Study/Semester3/Digital Systems/Lab/140923/myxnor.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/myxnor.v
+!i122 11
+R3
+R4
+r1
+!s85 0
+31
+!s108 1694692674.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/myxnor.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/myxnor.v|
+!i113 1
+R5
+R6
+vmyxnor_bench
+!s110 1694693101
+!i10b 1
+!s100 k_YUghmKT>Whd5B:on0DD3
+R1
+IkjzCnc<Nl>3NaNCJkbQCT1
+R2
+R0
+w1694693089
+Z13 8D:/Study/Semester3/Digital Systems/Lab/140923/notbynand_test.v
+Z14 FD:/Study/Semester3/Digital Systems/Lab/140923/notbynand_test.v
+!i122 16
+R7
+R4
+r1
+!s85 0
+31
+!s108 1694693101.000000
+Z15 !s107 D:/Study/Semester3/Digital Systems/Lab/140923/notbynand_test.v|
+Z16 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/notbynand_test.v|
+!i113 1
+R5
+R6
+vmyxor
+!s110 1694692481
+!i10b 1
+!s100 W2eCnM@LcbRgbF>7]HXNY1
+R1
+Igjn_Qjg91A7kA]nSKRZm60
+R2
+R0
+w1694692432
+8D:/Study/Semester3/Digital Systems/Lab/140923/myxor.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/myxor.v
+!i122 9
+R3
+R4
+r1
+!s85 0
+31
+!s108 1694692481.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/myxor.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/myxor.v|
+!i113 1
+R5
+R6
+vmyxor_bench
+!s110 1694692488
+!i10b 1
+!s100 =OlMiXFVM6c6X@g@BLHz12
+R1
+I09H;1`7YjffU:_[]0]nb[3
+R2
+R0
+w1694692466
+8D:/Study/Semester3/Digital Systems/Lab/140923/myxor_test.v
+FD:/Study/Semester3/Digital Systems/Lab/140923/myxor_test.v
+!i122 10
+R7
+R4
+r1
+!s85 0
+31
+!s108 1694692488.000000
+!s107 D:/Study/Semester3/Digital Systems/Lab/140923/myxor_test.v|
+!s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/Lab/140923/myxor_test.v|
+!i113 1
+R5
+R6
+vnotbynand
+!s110 1694693382
+!i10b 1
+!s100 =ARA<j_?iRUM4S`I5Lle`0
+R1
+I;gB_Wg<KF_gN?<CU2iOFT3
+R2
+R0
+w1694693376
+R9
+R10
+!i122 22
+R3
+R4
+r1
+!s85 0
+31
+!s108 1694693382.000000
+R11
+R12
+!i113 1
+R5
+R6
+vnotbynand_bench
+!s110 1694693385
+!i10b 1
+!s100 `V5zloCWQMHkRFMI079GM2
+R1
+Ib2@IEa=z3@9]IAg2h`Sc?0
+R2
+R0
+w1694693361
+R13
+R14
+!i122 23
+R8
+R4
+r1
+!s85 0
+31
+!s108 1694693385.000000
+R15
+R16
+!i113 1
+R5
+R6

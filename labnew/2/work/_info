@@ -1,0 +1,333 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/Semester3/Digital Systems/labnew/2
+vfull_adder
+Z1 !s110 1697101684
+!i10b 1
+!s100 T`IY2hM50EX4[@eXEH?7Q1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPSL`<n89S1D0QRS<1_>663
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1697100690
+Z5 8D:/Study/Semester3/Digital Systems/labnew/2/full_adder.v
+Z6 FD:/Study/Semester3/Digital Systems/labnew/2/full_adder.v
+!i122 3
+L0 1 6
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1697101684.000000
+Z9 !s107 D:/Study/Semester3/Digital Systems/labnew/2/full_adder.v|
+Z10 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/2/full_adder.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vfull_adder_bench
+R1
+!i10b 1
+!s100 AlFe]K^bHD_EmA[45Wi1f2
+R2
+I4N3^AhNj6O7RF]mM5dlR=2
+R3
+R0
+R4
+R5
+R6
+!i122 3
+L0 8 16
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhalf_adder_a
+Z13 !s110 1697101417
+!i10b 1
+!s100 fDa^E?2X>;jn`J=^Z^WJP3
+R2
+IVeDizn[I6kkCRL:?R]A[41
+R3
+R0
+Z14 w1697099693
+Z15 8D:/Study/Semester3/Digital Systems/labnew/2/half_adder.v
+Z16 FD:/Study/Semester3/Digital Systems/labnew/2/half_adder.v
+!i122 2
+L0 1 4
+R7
+r1
+!s85 0
+31
+Z17 !s108 1697101417.000000
+Z18 !s107 D:/Study/Semester3/Digital Systems/labnew/2/half_adder.v|
+Z19 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/2/half_adder.v|
+!i113 1
+R11
+R12
+vhalf_adder_b
+R13
+!i10b 1
+!s100 P4c]<83>AgmX`TmD;408`3
+R2
+Im8[cZ?LiJSm>j7Ze[lCZ?2
+R3
+R0
+R14
+R15
+R16
+!i122 2
+L0 6 4
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R11
+R12
+vhalf_adder_bench
+R13
+!i10b 1
+!s100 bQ<fzeL:1T>5SBJna5YPo1
+R2
+IeaN;I7]Oj=Bcz71PZV5X20
+R3
+R0
+R14
+R15
+R16
+!i122 2
+L0 21 12
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R11
+R12
+vhalf_adder_c
+R13
+!i10b 1
+!s100 2[[0DBDK_MTWOJ1;MIUX;2
+R2
+I68]6:WGRd_V2AV=d3]Iz83
+R3
+R0
+R14
+R15
+R16
+!i122 2
+L0 11 9
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R11
+R12
+vn_bit_arithmetic_compare
+Z20 !s110 1697104529
+!i10b 1
+!s100 cLCa>:cM8P?Mg@dYNJYJz3
+R2
+IUBCC3a6`7ii>ZW0@7HR0O0
+R3
+R0
+Z21 w1697104374
+Z22 8D:/Study/Semester3/Digital Systems/labnew/2/n_bit_arithmetic_compare.v
+Z23 FD:/Study/Semester3/Digital Systems/labnew/2/n_bit_arithmetic_compare.v
+!i122 13
+L0 1 13
+R7
+r1
+!s85 0
+31
+Z24 !s108 1697104529.000000
+Z25 !s107 D:/Study/Semester3/Digital Systems/labnew/2/n_bit_arithmetic_compare.v|
+Z26 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/2/n_bit_arithmetic_compare.v|
+!i113 1
+R11
+R12
+vn_comparator
+Z27 !s110 1697105746
+!i10b 1
+!s100 4oGZ>dbPQEi@9`LY?To>J2
+R2
+IQ;=I7]beQBzM`D^8j`5C31
+R3
+R0
+Z28 w1697105740
+Z29 8D:/Study/Semester3/Digital Systems/labnew/2/n_comparator.v
+Z30 FD:/Study/Semester3/Digital Systems/labnew/2/n_comparator.v
+!i122 15
+L0 1 5
+R7
+r1
+!s85 0
+31
+Z31 !s108 1697105746.000000
+!s107 D:/Study/Semester3/Digital Systems/labnew/2/n_comparator.v|
+Z32 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/2/n_comparator.v|
+!i113 1
+R11
+R12
+vn_comparator_bench
+R27
+!i10b 1
+!s100 UMFLSQ_Eo:3HRKK;f:nz^2
+R2
+IPVDBIF[<2[:H^mCj;a<821
+R3
+R0
+R28
+R29
+R30
+!i122 15
+L0 7 13
+R7
+r1
+!s85 0
+31
+R31
+Z33 !s107 D:/Study/Semester3/Digital Systems/labnew/2/n_comparator.v|
+R32
+!i113 1
+R11
+R12
+vn_full_adder
+Z34 !s110 1697101736
+!i10b 1
+!s100 GZT4GT_je2L;EIB4YG^df1
+R2
+IL6gm_]N1JI5LX?^ZmA;nR2
+R3
+R0
+Z35 w1697101729
+Z36 8D:/Study/Semester3/Digital Systems/labnew/2/n_full_adder.v
+Z37 FD:/Study/Semester3/Digital Systems/labnew/2/n_full_adder.v
+!i122 4
+Z38 L0 1 17
+R7
+r1
+!s85 0
+31
+Z39 !s108 1697101736.000000
+Z40 !s107 D:/Study/Semester3/Digital Systems/labnew/2/n_full_adder.v|
+Z41 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/2/n_full_adder.v|
+!i113 1
+R11
+R12
+vn_full_adder_bench
+R34
+!i10b 1
+!s100 Ef2Mme`TJmZbMN9m=WIjz3
+R2
+I^EzLaI``EC:cYe5Um@?[e0
+R3
+R0
+R35
+R36
+R37
+!i122 4
+Z42 L0 19 11
+R7
+r1
+!s85 0
+31
+R39
+R40
+R41
+!i113 1
+R11
+R12
+vn_full_sub
+Z43 !s110 1697105632
+!i10b 1
+!s100 2Ld9]a@c7LVoH7dA55kd[1
+R2
+I@@fnM7`=4CHLU6QJke;]83
+R3
+R0
+Z44 w1697105625
+Z45 8D:/Study/Semester3/Digital Systems/labnew/2/n_full_sub.v
+Z46 FD:/Study/Semester3/Digital Systems/labnew/2/n_full_sub.v
+!i122 14
+R38
+R7
+r1
+!s85 0
+31
+Z47 !s108 1697105631.000000
+Z48 !s107 D:/Study/Semester3/Digital Systems/labnew/2/n_full_sub.v|
+Z49 !s90 -reportprogress|300|-work|work|D:/Study/Semester3/Digital Systems/labnew/2/n_full_sub.v|
+!i113 1
+R11
+R12
+vn_full_sub_bench
+R43
+!i10b 1
+!s100 CoXcX>0A^>7n]8d7D?A620
+R2
+I1?6zHFPZ:fFaGGm@MUMNL0
+R3
+R0
+R44
+R45
+R46
+!i122 14
+R42
+R7
+r1
+!s85 0
+31
+R47
+R48
+R49
+!i113 1
+R11
+R12
+vtestbench
+R20
+!i10b 1
+!s100 VKZP99TQkkI_h=cmeibRV0
+R2
+If@MfC2D8U7KRY@Cd`jeOQ1
+R3
+R0
+R21
+R22
+R23
+!i122 13
+L0 15 34
+R7
+r1
+!s85 0
+31
+R24
+R25
+R26
+!i113 1
+R11
+R12

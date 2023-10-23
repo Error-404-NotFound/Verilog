@@ -1,0 +1,12 @@
+module full_st(a, b, c, y, x);
+	input a, b, c;
+	output y, x;
+	xor x1(y,a,b,c)
+	wire w1;
+	wire w2;
+	wire w3;
+	and d1(w1,a,b);
+	and d2(w2,b,c);
+	and d3(w3,c,a);
+	or r1(x,w1,w2,w3); 
+endmodule

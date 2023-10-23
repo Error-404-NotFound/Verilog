@@ -1,0 +1,17 @@
+module n_full_adder#(parameter N=4)(a, b, k, S);
+	input [N-1:0]a,b;
+	input k;
+	wire [N:0]c;
+	output [N:0]S;
+	assign c[0]=k;
+
+	genvar i;
+	generate
+	for(i=0;i<N;i=i+1) begin: fa
+		full_adder fa_(.a(a[i]),.b(b[i]),.c(c[i]),.y(S[i]),.x(c[i+1]));
+	end
+	endgenerate
+	//half_adder h1(.a(a),.b(b),.y(S0),.x(C1));
+	//half_adder h2(.a(c),.b(S0),.y(y),.x(C2));
+	//OR o(.a(C1),.b(C2),.O(x));
+endmodule
